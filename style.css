@@ -1,0 +1,68 @@
+h1{
+    color: #fe6905;
+    background-color: rgb(0, 234, 255);
+    height: 90px;
+    width: 300px;
+
+}
+h2{
+    color: #0000ff47;
+}
+
+p{
+color: #10d3e8c2;
+font-size: 20px;
+font-weight: 700;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+width: auto;
+}
+#birthday{
+font-size: 20px;
+color: rgba(8, 0, 255, 0.322);
+}
+#level{
+color: #1e05fe6b;
+font-size: 30px;
+}
+.friend{
+background-color: yellowgreen;
+}
+h1.friend{
+font-size: 20px;
+}
+.neighbor{
+width: 20px;
+}
+.romantic{
+color: red;
+}
+.blog{
+
+border: 5px solid green;
+width: 40%;
+height: 30%;
+border-radius: 20px;
+margin: 2%;
+padding: 30px;
+display: inline-block;
+
+
+
+}
+h3{
+text-align: center;
+
+}
+h3{
+text-align: justify;
+}
+.spare{
+background-color: linen;
+border: 5px solid blue;
+border-radius: 20px;
+margin: 40px;
+padding: 30px;
+}
